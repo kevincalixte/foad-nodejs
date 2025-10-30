@@ -1,3 +1,7 @@
+# Aperçu 
+
+![Interface de l'application](./client/assets/img/apercu.png)
+
 # Node JS , Express , MongoDB
 
 Pour cette **FOAD** je vous propose de créer une **api** qui renvoie des **users** sous forme de **json**.
