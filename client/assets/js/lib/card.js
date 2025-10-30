@@ -7,7 +7,7 @@ const createCard = () => {
 
     fetch("http://localhost:8080/api/users")
       .then((res) => res.json())
-      .then((users) => {
+      .then((users) => { 
         users.forEach((user) => {
           // CREATION DES ELEMENTS
           const card = document.createElement("div");
