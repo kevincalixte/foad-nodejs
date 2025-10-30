@@ -6,8 +6,11 @@ const createCard = () => {
     document.body.appendChild(cardContainer);
 
     fetch("http://localhost:8080/api/users")
+      .catch((error)=> {
+        fetch("./data/users.json")
+      }) 
       .then((res) => res.json())
-      .then((users) => { 
+      .then((users) => {
         users.forEach((user) => {
           // CREATION DES ELEMENTS
           const card = document.createElement("div");
@@ -36,7 +39,7 @@ const createCard = () => {
             user.adresse.ville +
             ", " +
             user.adresse.pays;
-          cardAvatar.src = `./client/assets/img/${user.prénom.toLowerCase()}.svg`;
+          cardAvatar.src = `../client/assets/img/${user.prénom.toLowerCase()}.svg`;
           // AFFICHAGE DES ELEMENTS
           cardContainer.append(card);
           card.append(
@@ -49,6 +52,7 @@ const createCard = () => {
           );
         });
       });
+  
   } catch (error) {
     console.log("FETCH PROBLEM : " + error);
   }
