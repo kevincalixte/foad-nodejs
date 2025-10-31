@@ -1,6 +1,6 @@
+// CHARGEMENT DU JSON DEPUIS UNE API / DOSSIER DATA
 const createCard = () => {
   try {
-    // CREATION DE LA CARD
     const cardContainer = document.createElement("div");
     cardContainer.id = "cardContainer";
     document.body.appendChild(cardContainer);
@@ -24,6 +24,7 @@ const createCard = () => {
   }
 };
 
+// CREATION DE LA CARD
 function pushJSON(users) {
   users.forEach((user) => {
     // CREATION DES ELEMENTS
