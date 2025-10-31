@@ -5,7 +5,7 @@ const createCard = () => {
     cardContainer.id = "cardContainer";
     document.body.appendChild(cardContainer);
 
-    fetch("http://localhost:8080/api/users")
+    fetch("/api/users")
       .then((res) => res.json())
       .then((users) => {
         if (users.length === 0) {
