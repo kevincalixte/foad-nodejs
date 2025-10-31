@@ -1,146 +1,146 @@
 [
   {
-  "prénom": "Kevin",
-  "nom": "CEPPIC", 
-  "email": "kevin@ceppic.fr",
-  "age": 31,
-  "adresse": {
-    "rue": "1 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+    "prénom": "Kevin",
+    "nom": "CEPPIC",
+    "email": "kevin@ceppic.fr",
+    "age": 31,
+    "adresse": {
+      "rue": "1 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "kevin.png"
   },
-  "avatar": "kevin.png"
-},
-{
-  "prénom": "Benjamin",
-  "nom": "CEPPIC", 
-  "email": "benjamin@ceppic.fr",
-  "age": 18,
-  "adresse": {
-    "rue": "2 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Benjamin",
+    "nom": "CEPPIC",
+    "email": "benjamin@ceppic.fr",
+    "age": 18,
+    "adresse": {
+      "rue": "2 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "benjamin.png"
   },
-  "avatar": "benjamin.png"
-},
-{
-  "prénom": "Sebastien",
-  "nom": "CEPPIC", 
-  "email": "sebastien@ceppic.fr",
-  "age": 36,
-  "adresse": {
-    "rue": "3 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Sebastien",
+    "nom": "CEPPIC",
+    "email": "sebastien@ceppic.fr",
+    "age": 36,
+    "adresse": {
+      "rue": "3 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "sebastien.png"
   },
-  "avatar": "sebastien.png"
-},
-{
-  "prénom": "Olfa",
-  "nom": "CEPPIC", 
-  "email": "olfa@ceppic.fr",
-  "age": 28,
-  "adresse": {
-    "rue": "4 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Olfa",
+    "nom": "CEPPIC",
+    "email": "olfa@ceppic.fr",
+    "age": 28,
+    "adresse": {
+      "rue": "4 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "olfa.png"
   },
-  "avatar": "olfa.png"
-},
-{
-  "prénom": "Juliette",
-  "nom": "CEPPIC", 
-  "email": "juliette@ceppic.fr",
-  "age": 26,
-  "adresse": {
-    "rue": "5 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Juliette",
+    "nom": "CEPPIC",
+    "email": "juliette@ceppic.fr",
+    "age": 26,
+    "adresse": {
+      "rue": "5 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "juliette.png"
   },
-  "avatar": "juliette.png"
-},
-{
-  "prénom": "Heloise",
-  "nom": "CEPPIC", 
-  "email": "heloise@ceppic.fr",
-  "age": 20,
-  "adresse": {
-    "rue": "6 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Heloise",
+    "nom": "CEPPIC",
+    "email": "heloise@ceppic.fr",
+    "age": 20,
+    "adresse": {
+      "rue": "6 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "heloise.png"
   },
-  "avatar": "heloise.png"
-},
-{
-  "prénom": "Mohammad",
-  "nom": "CEPPIC", 
-  "email": "mohammad@ceppic.fr",
-  "age": 23,
-  "adresse": {
-    "rue": "7 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Mohammad",
+    "nom": "CEPPIC",
+    "email": "mohammad@ceppic.fr",
+    "age": 23,
+    "adresse": {
+      "rue": "7 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "mohammad.png"
   },
-  "avatar": "mohammad.png"
-},
-{
-  "prénom": "Victor",
-  "nom": "CEPPIC", 
-  "email": "vicror@ceppic.fr",
-  "age": 23,
-  "adresse": {
-    "rue": "8 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Victor",
+    "nom": "CEPPIC",
+    "email": "vicror@ceppic.fr",
+    "age": 23,
+    "adresse": {
+      "rue": "8 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "victor.png"
   },
-  "avatar": "victor.png"
-},
-{
-  "prénom": "Yannick",
-  "nom": "CEPPIC", 
-  "email": "yannick@ceppic.fr",
-  "age": 38,
-  "adresse": {
-    "rue": "9 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Yannick",
+    "nom": "CEPPIC",
+    "email": "yannick@ceppic.fr",
+    "age": 38,
+    "adresse": {
+      "rue": "9 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "yannick.png"
   },
-  "avatar": "yannick.png"
-},
-{
-  "prénom": "Cedric",
-  "nom": "CEPPIC", 
-  "email": "cedric@ceppic.fr",
-  "age": 31,
-  "adresse": {
-    "rue": "10 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Cedric",
+    "nom": "CEPPIC",
+    "email": "cedric@ceppic.fr",
+    "age": 31,
+    "adresse": {
+      "rue": "10 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "cedric.png"
   },
-  "avatar": "cedric.png"
-},
-{
-  "prénom": "Olivier",
-  "nom": "CEPPIC", 
-  "email": "olivier@ceppic.fr",
-  "age": 50,
-  "adresse": {
-    "rue": "11 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
+  {
+    "prénom": "Olivier",
+    "nom": "CEPPIC",
+    "email": "olivier@ceppic.fr",
+    "age": 50,
+    "adresse": {
+      "rue": "11 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "olivier.png"
   },
-  "avatar": "olivier.png"
-},
-{
-  "prénom": "Thomas",
-  "nom": "CEPPIC", 
-  "email": "thomas@ceppic.fr",
-  "age": 23,
-  "adresse": {
-    "rue": "12 rue du ceppic",
-    "ville": "Rouen", 
-    "pays": "France"
-  },
-  "avatar": "thomas.png"
-}
+  {
+    "prénom": "Thomas",
+    "nom": "CEPPIC",
+    "email": "thomas@ceppic.fr",
+    "age": 23,
+    "adresse": {
+      "rue": "12 rue du ceppic",
+      "ville": "Rouen",
+      "pays": "France"
+    },
+    "avatar": "thomas.png"
+  }
 ]

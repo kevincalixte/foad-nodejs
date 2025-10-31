@@ -14,7 +14,7 @@ services:
     image: node:alpine
     container_name: userapi 
     volumes:
-      - ./server:/app
+      - ./:/app
     working_dir: /app
     ports:
       - "8080:8081"
@@ -22,7 +22,7 @@ services:
       - mongodb-service
     networks:
       - userapi-net
-    command: sh -c "npm install && node index.js"
+    command: sh -c "cd server && npm install && node index.js"
 
 networks:
    userapi-net:
