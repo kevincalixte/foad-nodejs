@@ -6,6 +6,10 @@ const createCard = () => {
     document.body.appendChild(cardContainer);
 
     fetch("/api/users")
+      .catch((error) => {
+        console.log("ERROR API DB : " + error);
+        fetch("./assets/data/users.json");
+      })
       .then((res) => res.json())
       .then((users) => {
         if (users.length === 0) {
